@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="tp-handcraft-TocheVoronwe:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>tp-handcraft-TocheVoronwe</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="handcrafting-0.1.0.war">
+      <element id="artifact" artifact-name="tp-handcraft-TocheVoronwe:war exploded" />
+    </root>
+  </artifact>
+</component>
