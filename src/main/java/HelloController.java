@@ -18,3 +18,4 @@ public class HelloController {
         throw new RuntimeException("Explosion !");
     }
 }
+
